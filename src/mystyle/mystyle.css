@@ -1,0 +1,22 @@
+.width-250{
+    width: 300px;
+    height: 400px;
+}
+
+.display-flex{
+    display: flex
+}
+
+.font{
+    text-align: center;
+    font-size:large;
+}
+
+.font-heading{
+    text-align: center;
+    font-size:large;
+    font-weight:900;
+}
+.padding-top{
+    padding-top: 90px;
+}

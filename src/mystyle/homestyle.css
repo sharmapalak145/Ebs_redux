@@ -1,0 +1,34 @@
+.width-250s{
+    
+    width: 1000px;
+    height: 600px;
+}
+
+.display-flexs{
+    display: flex
+}
+.font-heading{
+    text-align: center;
+    font-size:large;
+    font-weight:900;
+}
+
+.bg-color-grey{
+    background-color: #ffb84d;
+}
+
+.fonts{
+    font-size: 35px;
+}
+
+.homebutton{
+    
+    border-radius: 6px;
+    height: 50px;
+    width: 180px;
+
+}
+
+.text-align-center{
+text-align: center;
+}
